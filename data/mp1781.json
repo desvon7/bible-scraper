@@ -1,0 +1,221 @@
+{
+  "translation": "MP1781",
+  "translationId": 3051,
+  "books": {
+    "Genesis": {
+      "chapters": {}
+    },
+    "Exodus": {
+      "chapters": {}
+    },
+    "Leviticus": {
+      "chapters": {}
+    },
+    "Numbers": {
+      "chapters": {}
+    },
+    "Deuteronomy": {
+      "chapters": {}
+    },
+    "Joshua": {
+      "chapters": {}
+    },
+    "Judges": {
+      "chapters": {}
+    },
+    "Ruth": {
+      "chapters": {}
+    },
+    "1 Samuel": {
+      "chapters": {}
+    },
+    "2 Samuel": {
+      "chapters": {}
+    },
+    "1 Kings": {
+      "chapters": {}
+    },
+    "2 Kings": {
+      "chapters": {}
+    },
+    "1 Chronicles": {
+      "chapters": {}
+    },
+    "2 Chronicles": {
+      "chapters": {}
+    },
+    "Ezra": {
+      "chapters": {}
+    },
+    "Nehemiah": {
+      "chapters": {}
+    },
+    "Esther": {
+      "chapters": {}
+    },
+    "Job": {
+      "chapters": {
+        "1": {
+          "reference": "Job 1 MP1781",
+          "version": "MP1781",
+          "verses": [
+            {
+              "content": "Naked as from the earth we came, and enter’d life at first; Naked we to the earth return, and mix with kindred dust. 2 Whate’er we fondly call our own belongs to heav’n’s great Lord; The blessings lent us for a day are soon to be restor’d. 3 ’Tis God that lifts our comforts high, or sinks them in the grave: He gives; and, when he takes away, he takes but what he gave. 4 Then, ever blessed be his name! his goodness swell’d our store; His justice but resumes its own; ’tis ours still to adore.",
+              "reference": "Job 1:21"
+            }
+          ],
+          "copyright": "First published by the Church of Scotland in 1781.",
+          "audioBibleUrl": null,
+          "audioBibleCopyright": null
+        }
+      }
+    },
+    "Psalms": {
+      "chapters": {}
+    },
+    "Psalm": {
+      "chapters": {}
+    },
+    "Proverbs": {
+      "chapters": {}
+    },
+    "Ecclesiastes": {
+      "chapters": {}
+    },
+    "Song of Solomon": {
+      "chapters": {}
+    },
+    "Isaiah": {
+      "chapters": {}
+    },
+    "Jeremiah": {
+      "chapters": {}
+    },
+    "Lamentations": {
+      "chapters": {}
+    },
+    "Ezekiel": {
+      "chapters": {}
+    },
+    "Daniel": {
+      "chapters": {}
+    },
+    "Hosea": {
+      "chapters": {}
+    },
+    "Joel": {
+      "chapters": {}
+    },
+    "Amos": {
+      "chapters": {}
+    },
+    "Obadiah": {
+      "chapters": {}
+    },
+    "Jonah": {
+      "chapters": {}
+    },
+    "Micah": {
+      "chapters": {}
+    },
+    "Nahum": {
+      "chapters": {}
+    },
+    "Habakkuk": {
+      "chapters": {}
+    },
+    "Zephaniah": {
+      "chapters": {}
+    },
+    "Haggai": {
+      "chapters": {}
+    },
+    "Zechariah": {
+      "chapters": {}
+    },
+    "Malachi": {
+      "chapters": {}
+    },
+    "Matthew": {
+      "chapters": {}
+    },
+    "Mark": {
+      "chapters": {}
+    },
+    "Luke": {
+      "chapters": {}
+    },
+    "John": {
+      "chapters": {}
+    },
+    "Acts": {
+      "chapters": {}
+    },
+    "Romans": {
+      "chapters": {}
+    },
+    "1 Corinthians": {
+      "chapters": {}
+    },
+    "2 Corinthians": {
+      "chapters": {}
+    },
+    "Galatians": {
+      "chapters": {}
+    },
+    "Ephesians": {
+      "chapters": {}
+    },
+    "Philippians": {
+      "chapters": {}
+    },
+    "Colossians": {
+      "chapters": {}
+    },
+    "1 Thessalonians": {
+      "chapters": {}
+    },
+    "2 Thessalonians": {
+      "chapters": {}
+    },
+    "1 Timothy": {
+      "chapters": {}
+    },
+    "2 Timothy": {
+      "chapters": {}
+    },
+    "Titus": {
+      "chapters": {}
+    },
+    "Philemon": {
+      "chapters": {}
+    },
+    "Hebrews": {
+      "chapters": {}
+    },
+    "James": {
+      "chapters": {}
+    },
+    "1 Peter": {
+      "chapters": {}
+    },
+    "2 Peter": {
+      "chapters": {}
+    },
+    "1 John": {
+      "chapters": {}
+    },
+    "2 John": {
+      "chapters": {}
+    },
+    "3 John": {
+      "chapters": {}
+    },
+    "Jude": {
+      "chapters": {}
+    },
+    "Revelation": {
+      "chapters": {}
+    }
+  }
+}
